@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О компании", 
+		"/o-kompanii/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вакансии", 
+		"/vakansii/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Мир упаковки", 
+		"/novosti/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/kontakty/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Связаться", 
+		"", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

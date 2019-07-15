@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Производство", 
+		"/proizvodstvo/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Виды упаковки", 
+		"/polimernaya-upakovka/", 
+		Array(), 
+		Array("LEFT_MENU"=>"Y"), 
+		"" 
+	),
+	Array(
+		"Продукция", 
+		"/produkciya/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"/uslugi/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/kontakty/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Заявка", 
+		"/zayavka/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,12 @@
+auth/
+bitrix/*
+!bitrix/templates/arunapac/
+upload/
+.access.php
+.DS_Store
+.htaccess
+.htaccess.restore
+404.php
+robots.txt
+urlrewrite.php
+web.config
