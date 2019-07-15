@@ -7,7 +7,7 @@
 </main>
 
 <!--==========================  Footer ============================-->
-<footer id="footer" class="wow fadeInUp navbar-fixed-bottom">
+<footer id="footer" class="wow fadeInUp">
   <div class="container">
     <div class="row justify-content-center">            
       <div class="col-lg-4 col-md-auto">
