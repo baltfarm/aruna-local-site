@@ -1,6 +1,11 @@
 auth/
+
+!bitrix
 bitrix/*
-!bitrix/templates/arunapac/
+!bitrix/templates
+bitrix/templates/*
+!bitrix/templates/arunapac
+
 upload/
 .access.php
 .DS_Store
