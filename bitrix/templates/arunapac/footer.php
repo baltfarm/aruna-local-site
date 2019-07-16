@@ -10,7 +10,7 @@
 <footer id="footer" class="wow fadeInUp">
   <div class="container">
     <div class="row justify-content-center">            
-      <div class="col-lg-4 col-md-auto">
+      <div class="col-lg-4 col-md-auto w-auto">
 <div class="row">
       <div class="d-none d-lg-block col-lg-2">
         <img class="logo-bottom" src="/bitrix/templates/arunapac/img/logo-top.png">
