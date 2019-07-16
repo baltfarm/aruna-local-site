@@ -53,13 +53,13 @@ $APPLICATION->SetTitle("Главная"); ?>
 		<div class="col-lg-6 about-img about-background">
 			<div class="row">
 				<div class="col-lg-6 about-text-block">
-					 № 1
+					 № <span>1</span>
 					<p>
 						 ПРОИЗВОДИТЕЛЬ УПАКОВКИ ДЛЯ ЛЕКАРСТВЕННЫХ СРЕДСТВ В КАЛИНИНГРАДСКОЙ ОБЛАСТИ
 					</p>
 				</div>
 				<div class="col-lg-6 about-text-block">
-					 50 +
+					 <span>50</span> +
 					<p>
 						 Бизнес-партнёров
 					</p>
@@ -67,7 +67,7 @@ $APPLICATION->SetTitle("Главная"); ?>
 			</div>
 			<div class="row">
 				<div class="col-lg-6 about-text-block">
-					 100
+					 <span>100</span>
 					<p class="about-text-p">
 						 млн
 					</p>
@@ -76,7 +76,7 @@ $APPLICATION->SetTitle("Главная"); ?>
 					</p>
 				</div>
 				<div class="col-lg-6 about-text-block">
-					 ISO 7
+					 ISO <span>7</span>
 					<p>
 						 гарантированный класс чистоты помещений
 					</p>
