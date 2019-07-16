@@ -11,16 +11,26 @@
   <div class="container">
     <div class="row justify-content-center">            
       <div class="col-lg-4 col-md-auto">
+<div class="row">
+      <div class="d-none d-lg-block col-lg-2">
+        <img class="logo-bottom" src="/bitrix/templates/arunapac/img/logo-top.png">
+      </div>
+
+<div class="col-lg-10 col-md-auto">
         <ul class="navigation">
-          <li >
+          <li>
             <i class="fa fa-phone"></i>
             <a href="tel:+79991111111">+7 999 999999</a>
           </li>
-          <li >
+          <li>
             <i class="fa fa-envelope-o"></i>
             <a href="mailto:contact@aruna.com">contact@aruna.com</a>
           </li>
-        </ul>  
+        </ul> 
+</div>
+ </div>
+
+
       </div>
       <div class="d-none d-md-block col-md-auto">
         <div class="">
