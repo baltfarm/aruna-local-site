@@ -1945,7 +1945,7 @@ width: 95%;
 }
 
 .form-border{
-  border: 2px solid #2095ab;
+  /*border: 2px solid #2095ab;*/
   border-radius: 14px;
   padding: 4px 8px 4px 8px;
   z-index: 100000;
@@ -2039,13 +2039,13 @@ width: 95%;
 }
 
 
-input {
+input, select {
   padding: 0px 6px !important;
   height: 26px !important;
   font-size: 14px !important;
   box-shadow: none !important;
 }
-input:focus {
+input:focus, select:focus {
   background: #fff !important;
 }
 
@@ -2057,4 +2057,8 @@ textarea {
 
 textarea:focus {
   background: #fff !important;
+}
+select:focus {
+    border: 1px solid #555 !important;
+    outline: #555 solid 1px !important;
 }

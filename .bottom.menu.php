@@ -9,7 +9,7 @@ $aMenuLinks = Array(
 	),
 	Array(
 		"Вакансии", 
-		"/vakansii/", 
+		"/vakansii/vakansii.php", 
 		Array(), 
 		Array(), 
 		"" 
