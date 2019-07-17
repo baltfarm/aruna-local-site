@@ -1,6 +1,6 @@
 <? require($_SERVER['DOCUMENT_ROOT'].'/bitrix/header.php');
 $APPLICATION->SetTitle("Главная"); ?>
-<!--========================== Top banner ============================-->
+<!--===================== Top banner ==========================-->
 <?if ($LEFT_MENU != "Y"):?> 
 	<section id="intro">
 		<div class="container">
@@ -30,7 +30,6 @@ $APPLICATION->SetTitle("Главная"); ?>
 <?endif?> 
 
 <!--======================== About company ============================--> 
-
 <section id="about" class="wow fadeInUp">
 <div class="container">
 	<div class="row section-header justify-content-center h2-blue">
@@ -47,7 +46,7 @@ $APPLICATION->SetTitle("Главная"); ?>
 				 лет опыта
 			</p>
 			<p class="company-text">
-				 Мы постоянно совершенствуемся и стремимся достичь новых вершин в сфере производства полимерной упаковки.&nbsp; Основываясь на мировом опыте, стандартах надлежащей практики производства и надёжной команде профессионалов, мы изготавливаем действительно качественную продукцию, создавая для наших клиентов и партнёров возможности для развития и достижения поставленных целей.
+				 Мы постоянно совершенствуемся и стремимся достичь новых вершин в сфере производства полимерной упаковки. Основываясь на мировом опыте, стандартах надлежащей практики производства и надёжной команде профессионалов, мы изготавливаем действительно качественную продукцию, создавая для наших клиентов и партнёров возможности для развития и достижения поставленных целей.
 			</p>
 		</div>
 		<div class="col-lg-6 about-img about-background">
@@ -92,8 +91,7 @@ $APPLICATION->SetTitle("Главная"); ?>
 </div>
  </section>
 
-<!--======================== Our production ============================--> 
-
+<!--======================== Our production ============================-->
 <section id="production">
 <div class="container">
 	<div class="row section-header justify-content-center h2-white">
@@ -163,7 +161,6 @@ $APPLICATION->SetTitle("Главная"); ?>
 </section>
 
 <!--========================== #section ============================--> 
-
 <section id="news" class="wow fadeInUp">
 <div class="container">
 	<div class="row section-header justify-content-center h2-blue">
@@ -270,6 +267,5 @@ $APPLICATION->SetTitle("Главная"); ?>
 	),
 	false
 );?>
-
 </div>
  </div></section><?require($_SERVER['DOCUMENT_ROOT'].'/bitrix/footer.php');?>
